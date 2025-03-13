@@ -2,7 +2,7 @@
 
 Run this Code:
 
-Add a command in the terminal and then add input like L*B*H followed by number of cube in terms of power of 2
+Add a command (node index.js) in the terminal and then add input like L*B*H followed by number of cube in terms of power of 2
 
 Explanation of my code:
 
